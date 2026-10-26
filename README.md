@@ -1,20 +1,17 @@
-# SOAP Notes Templates - eClinicalWorks Ready
+# SOAP Notes Templates - Real Examples
+**Author: Dr. Syed Rashid Mansoor | MBBS | Senior Billing Auditor & Lead QA @ Ecodermedico (Jan 2022-Oct 2025) | @islamiano49**
 
-**By Dr. Syed Rashid Mansoor - MBBS (KMC 2025) | Senior Billing Auditor, Lead QA & Data Security @ Ecodermedico (Jan 2022 - Oct 2025)**
+This repo contains synthetic patient examples for portfolio - NOT real PHI. Names used with consent for demo.
 
-Audit-ready templates I use for real-time medical scribing in eClinicalWorks. Focus on compliance, billing, and QA.
+Patients:
+- Samina, 12 y/o F
+- Ayesha, 17 y/o F  
+- Haji Bakhtawar, 51 y/o M
 
-## Features
-- Compliant with payer & HIPAA standards
-- eCW compatible - Progress Notes, Telephone Encounters
-- Designed to prevent denials (from Billing Auditor perspective)
-- 60+ WPM real-time use
+All notes are eClinicalWorks ready, QA checked by Billing Auditor perspective.
 
-## Templates Included
-1. General Medicine SOAP
-2. Cardiology SOAP (ECG focused)
-3. Orthopedics SOAP (like Zimri Orthopedics)
-4. Telephone Encounter
-5. HPI, ROS, Physical Exam checklists
-
-Author: syedrashidmansoor049@gmail.com | Peshawar
+## Files
+- Samina_12F_Pharyngitis.md
+- Ayesha_17F_Migraine.md
+- Haji_Bakhtawar_51M_HTN_Diabetes.md
+- soap_generator.py - Python code to auto-generate SOAP
