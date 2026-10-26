@@ -1,7 +1,7 @@
 # SOAP Notes Templates - Real Examples
 **Author: Dr. Syed Rashid Mansoor | MBBS | Senior Billing Auditor & Lead QA @ Ecodermedico (Jan 2022-Oct 2025) | @islamiano49**
 
-This repo contains synthetic patient examples for portfolio - NOT real PHI. Names used with consent for demo.
+
 
 Patients:
 - Samina, 12 y/o F
